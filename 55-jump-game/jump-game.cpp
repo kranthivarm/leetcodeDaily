@@ -12,19 +12,22 @@ public:
                     con[ind]='T';
                     return true;
                 }
-                else con[i]='F';
+                else con[ind]='F';
             }
             else {
-                bool t=recursion(nums,con,ind+i);
-                con[ind+i]='T';
-                con[ind]='T';
-                if(t)return true;  
+                bool t=recursion(nums,con,ind+i);                
+                if(t){
+                    con[ind+i]='T';
+                    con[ind]='T';
+                    return true;  
+                }
                 else {
                     con[ind+i]='F';
                     con[ind]='F';
                 }
             }
         }
+        con[ind]='F';
         return false;
     }
     bool canJump(vector<int>& nums) {

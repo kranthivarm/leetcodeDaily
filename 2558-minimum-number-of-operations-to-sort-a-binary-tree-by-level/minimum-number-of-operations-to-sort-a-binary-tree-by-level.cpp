@@ -29,7 +29,7 @@ public:
                         temp[j]=temp[i];
                         temp[i]=t;
                         res++;
-                        continue;
+                        break;
                     }
                     // else noteq++;
                 }

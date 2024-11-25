@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/kranthivarm/leetcodeDaily/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
 |  |
@@ -46,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
+| [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
@@ -64,6 +66,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
 |  |

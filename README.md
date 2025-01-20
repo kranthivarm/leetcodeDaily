@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kranthivarm/leetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -77,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
@@ -97,6 +99,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
+| [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
 |  |

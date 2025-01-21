@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
+| [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0907-koko-eating-bananas](https://github.com/kranthivarm/leetcodeDaily/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -77,6 +78,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
@@ -120,6 +122,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
 |  |
@@ -147,6 +150,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 ## Monotonic Queue
 |  |
 | ------- |

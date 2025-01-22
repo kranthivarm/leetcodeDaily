@@ -42,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1876-map-of-highest-peak](https://github.com/kranthivarm/leetcodeDaily/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Sorting
@@ -68,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kranthivarm/leetcodeDaily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1876-map-of-highest-peak](https://github.com/kranthivarm/leetcodeDaily/tree/master/1876-map-of-highest-peak) |
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/kranthivarm/leetcodeDaily/tree/master/2145-grid-game) |
@@ -104,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/kranthivarm/leetcodeDaily/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/kranthivarm/leetcodeDaily/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |

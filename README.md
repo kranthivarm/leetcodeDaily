@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
@@ -84,6 +85,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
@@ -163,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |

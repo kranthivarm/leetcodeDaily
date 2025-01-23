@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kranthivarm/leetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kranthivarm/leetcodeDaily/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -86,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
@@ -163,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
 | ------- |

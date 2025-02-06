@@ -70,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
@@ -105,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/kranthivarm/leetcodeDaily/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -113,6 +115,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |

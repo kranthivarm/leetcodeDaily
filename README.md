@@ -40,12 +40,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthivarm/leetcodeDaily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthivarm/leetcodeDaily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
@@ -63,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthivarm/leetcodeDaily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -160,6 +163,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthivarm/leetcodeDaily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
@@ -173,6 +177,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0086-partition-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthivarm/leetcodeDaily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |

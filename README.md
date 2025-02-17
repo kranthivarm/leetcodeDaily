@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -120,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |

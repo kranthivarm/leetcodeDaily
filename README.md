@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kranthivarm/leetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kranthivarm/leetcodeDaily/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/kranthivarm/leetcodeDaily/tree/master/3195-separate-black-and-white-balls) |
@@ -36,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3195-separate-black-and-white-balls](https://github.com/kranthivarm/leetcodeDaily/tree/master/3195-separate-black-and-white-balls) |
 ## Tree
 |  |
@@ -186,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0503-next-greater-element-ii) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Queue
 |  |
 | ------- |
@@ -224,4 +227,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->

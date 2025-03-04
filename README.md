@@ -215,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kranthivarm/leetcodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Union Find
 |  |
 | ------- |

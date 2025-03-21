@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0334-increasing-triplet-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -98,6 +99,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kranthivarm/leetcodeDaily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1876-map-of-highest-peak](https://github.com/kranthivarm/leetcodeDaily/tree/master/1876-map-of-highest-peak) |
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
@@ -146,6 +148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/kranthivarm/leetcodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/kranthivarm/leetcodeDaily/tree/master/0740-delete-and-earn) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2867-ways-to-split-array-into-good-subarrays) |
@@ -210,6 +213,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0503-next-greater-element-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Queue
 |  |
@@ -252,6 +256,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0503-next-greater-element-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Backtracking
 |  |
 | ------- |

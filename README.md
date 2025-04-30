@@ -82,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0213-house-robber-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
@@ -142,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
 | [0213-house-robber-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
@@ -264,4 +266,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

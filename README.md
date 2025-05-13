@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kranthivarm/leetcodeDaily/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/kranthivarm/leetcodeDaily/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/kranthivarm/leetcodeDaily/tree/master/3451-string-compression-iii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -196,6 +199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -245,6 +249,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kranthivarm/leetcodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kranthivarm/leetcodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |
 | ------- |

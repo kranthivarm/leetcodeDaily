@@ -72,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3321-type-of-triangle](https://github.com/kranthivarm/leetcodeDaily/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Tree
 |  |
@@ -118,6 +119,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kranthivarm/leetcodeDaily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3321-type-of-triangle](https://github.com/kranthivarm/leetcodeDaily/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
@@ -251,6 +253,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kranthivarm/leetcodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kranthivarm/leetcodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [3321-type-of-triangle](https://github.com/kranthivarm/leetcodeDaily/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |

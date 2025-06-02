@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/kranthivarm/leetcodeDaily/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
@@ -90,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/kranthivarm/leetcodeDaily/tree/master/0135-candy) |
 | [0213-house-robber-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0275-h-index-ii) |

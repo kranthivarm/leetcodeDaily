@@ -111,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kranthivarm/leetcodeDaily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kranthivarm/leetcodeDaily/tree/master/1706-min-cost-to-connect-all-points) |
 | [1876-map-of-highest-peak](https://github.com/kranthivarm/leetcodeDaily/tree/master/1876-map-of-highest-peak) |
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
@@ -271,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kranthivarm/leetcodeDaily/tree/master/1706-min-cost-to-connect-all-points) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -278,6 +280,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0133-clone-graph](https://github.com/kranthivarm/leetcodeDaily/tree/master/0133-clone-graph) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/kranthivarm/leetcodeDaily/tree/master/0871-keys-and-rooms) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kranthivarm/leetcodeDaily/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -295,4 +298,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/kranthivarm/leetcodeDaily/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

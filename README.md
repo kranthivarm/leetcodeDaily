@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0038-count-and-say](https://github.com/kranthivarm/leetcodeDaily/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/kranthivarm/leetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/kranthivarm/leetcodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
@@ -137,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/kranthivarm/leetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kranthivarm/leetcodeDaily/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
@@ -260,6 +262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kranthivarm/leetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |

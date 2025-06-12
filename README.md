@@ -70,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/kranthivarm/leetcodeDaily/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/kranthivarm/leetcodeDaily/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/kranthivarm/leetcodeDaily/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
@@ -215,6 +216,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
+| [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kranthivarm/leetcodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
@@ -233,6 +235,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0133-clone-graph](https://github.com/kranthivarm/leetcodeDaily/tree/master/0133-clone-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/kranthivarm/leetcodeDaily/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/kranthivarm/leetcodeDaily/tree/master/0871-keys-and-rooms) |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
@@ -296,6 +299,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0133-clone-graph](https://github.com/kranthivarm/leetcodeDaily/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/kranthivarm/leetcodeDaily/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/kranthivarm/leetcodeDaily/tree/master/0871-keys-and-rooms) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kranthivarm/leetcodeDaily/tree/master/1706-min-cost-to-connect-all-points) |
@@ -321,4 +325,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/kranthivarm/leetcodeDaily/tree/master/1706-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->

@@ -50,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kranthivarm/leetcodeDaily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kranthivarm/leetcodeDaily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/kranthivarm/leetcodeDaily/tree/master/3195-separate-black-and-white-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kranthivarm/leetcodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -130,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kranthivarm/leetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kranthivarm/leetcodeDaily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -169,6 +171,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kranthivarm/leetcodeDaily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kranthivarm/leetcodeDaily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
 |  |

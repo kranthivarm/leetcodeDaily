@@ -45,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0334-increasing-triplet-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kranthivarm/leetcodeDaily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
@@ -286,6 +287,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kranthivarm/leetcodeDaily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kranthivarm/leetcodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kranthivarm/leetcodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2867-ways-to-split-array-into-good-subarrays) |

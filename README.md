@@ -121,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/kranthivarm/leetcodeDaily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kranthivarm/leetcodeDaily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kranthivarm/leetcodeDaily/tree/master/1706-min-cost-to-connect-all-points) |
@@ -187,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/kranthivarm/leetcodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/kranthivarm/leetcodeDaily/tree/master/0740-delete-and-earn) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/kranthivarm/leetcodeDaily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/kranthivarm/leetcodeDaily/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |

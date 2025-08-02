@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthivarm/leetcodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/kranthivarm/leetcodeDaily/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kranthivarm/leetcodeDaily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kranthivarm/leetcodeDaily/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/kranthivarm/leetcodeDaily/tree/master/3195-separate-black-and-white-balls) |
@@ -90,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthivarm/leetcodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2689-rearranging-fruits](https://github.com/kranthivarm/leetcodeDaily/tree/master/2689-rearranging-fruits) |
 | [3321-type-of-triangle](https://github.com/kranthivarm/leetcodeDaily/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Tree
@@ -138,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthivarm/leetcodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/kranthivarm/leetcodeDaily/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kranthivarm/leetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kranthivarm/leetcodeDaily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthivarm/leetcodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -165,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/kranthivarm/leetcodeDaily/tree/master/2689-rearranging-fruits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kranthivarm/leetcodeDaily/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |

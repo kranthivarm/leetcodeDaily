@@ -136,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/kranthivarm/leetcodeDaily/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kranthivarm/leetcodeDaily/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/kranthivarm/leetcodeDaily/tree/master/2262-solving-questions-with-brainpower) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthivarm/leetcodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
@@ -183,6 +184,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0907-koko-eating-bananas](https://github.com/kranthivarm/leetcodeDaily/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kranthivarm/leetcodeDaily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kranthivarm/leetcodeDaily/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/kranthivarm/leetcodeDaily/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -232,6 +234,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/kranthivarm/leetcodeDaily/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kranthivarm/leetcodeDaily/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kranthivarm/leetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Heap (Priority Queue)
 |  |
@@ -294,6 +297,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/kranthivarm/leetcodeDaily/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kranthivarm/leetcodeDaily/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Monotonic Queue
 |  |
 | ------- |

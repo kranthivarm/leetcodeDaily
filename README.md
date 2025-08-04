@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kranthivarm/leetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/kranthivarm/leetcodeDaily/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/kranthivarm/leetcodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
@@ -110,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kranthivarm/leetcodeDaily/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0275-h-index-ii) |
@@ -159,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0076-minimum-window-substring](https://github.com/kranthivarm/leetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kranthivarm/leetcodeDaily/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0740-delete-and-earn](https://github.com/kranthivarm/leetcodeDaily/tree/master/0740-delete-and-earn) |
@@ -196,6 +199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/kranthivarm/leetcodeDaily/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kranthivarm/leetcodeDaily/tree/master/0322-coin-change) |
@@ -360,4 +364,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

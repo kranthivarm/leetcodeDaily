@@ -121,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0334-increasing-triplet-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0376-wiggle-subsequence) |
+| [0403-frog-jump](https://github.com/kranthivarm/leetcodeDaily/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0503-next-greater-element-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0503-next-greater-element-ii) |
@@ -207,6 +208,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/kranthivarm/leetcodeDaily/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0376-wiggle-subsequence) |
+| [0403-frog-jump](https://github.com/kranthivarm/leetcodeDaily/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/kranthivarm/leetcodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/kranthivarm/leetcodeDaily/tree/master/0740-delete-and-earn) |

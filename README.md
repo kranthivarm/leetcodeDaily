@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/kranthivarm/leetcodeDaily/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/kranthivarm/leetcodeDaily/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kranthivarm/leetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/kranthivarm/leetcodeDaily/tree/master/0091-decode-ways) |
@@ -88,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kranthivarm/leetcodeDaily/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0354-russian-doll-envelopes) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthivarm/leetcodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
@@ -106,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kranthivarm/leetcodeDaily/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |
@@ -159,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kranthivarm/leetcodeDaily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kranthivarm/leetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |

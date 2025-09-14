@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/kranthivarm/leetcodeDaily/tree/master/0583-delete-operation-for-two-strings) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/kranthivarm/leetcodeDaily/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
@@ -134,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0907-koko-eating-bananas](https://github.com/kranthivarm/leetcodeDaily/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/kranthivarm/leetcodeDaily/tree/master/1006-vowel-spellchecker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
@@ -175,6 +177,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0740-delete-and-earn](https://github.com/kranthivarm/leetcodeDaily/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/kranthivarm/leetcodeDaily/tree/master/1006-vowel-spellchecker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/kranthivarm/leetcodeDaily/tree/master/1813-maximum-erasure-value) |

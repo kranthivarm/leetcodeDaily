@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kranthivarm/leetcodeDaily/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthivarm/leetcodeDaily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0690-employee-importance) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/kranthivarm/leetcodeDaily/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -80,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/kranthivarm/leetcodeDaily/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/kranthivarm/leetcodeDaily/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/kranthivarm/leetcodeDaily/tree/master/0871-keys-and-rooms) |
@@ -132,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0503-next-greater-element-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/0525-contiguous-array) |
+| [0690-employee-importance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/kranthivarm/leetcodeDaily/tree/master/0740-delete-and-earn) |
 | [0907-koko-eating-bananas](https://github.com/kranthivarm/leetcodeDaily/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0940-fruit-into-baskets) |
@@ -176,6 +179,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/kranthivarm/leetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/kranthivarm/leetcodeDaily/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/0525-contiguous-array) |
+| [0690-employee-importance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/kranthivarm/leetcodeDaily/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kranthivarm/leetcodeDaily/tree/master/0952-word-subsets) |
@@ -283,6 +287,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0133-clone-graph](https://github.com/kranthivarm/leetcodeDaily/tree/master/0133-clone-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kranthivarm/leetcodeDaily/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/kranthivarm/leetcodeDaily/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/kranthivarm/leetcodeDaily/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthivarm/leetcodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/kranthivarm/leetcodeDaily/tree/master/0871-keys-and-rooms) |

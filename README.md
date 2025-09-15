@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0334-increasing-triplet-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/0410-split-array-largest-sum) |
+| [1487-cinema-seat-allocation](https://github.com/kranthivarm/leetcodeDaily/tree/master/1487-cinema-seat-allocation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kranthivarm/leetcodeDaily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2089-maximum-matrix-sum](https://github.com/kranthivarm/leetcodeDaily/tree/master/2089-maximum-matrix-sum) |
@@ -143,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kranthivarm/leetcodeDaily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
+| [1487-cinema-seat-allocation](https://github.com/kranthivarm/leetcodeDaily/tree/master/1487-cinema-seat-allocation) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/kranthivarm/leetcodeDaily/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kranthivarm/leetcodeDaily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -186,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1006-vowel-spellchecker](https://github.com/kranthivarm/leetcodeDaily/tree/master/1006-vowel-spellchecker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1487-cinema-seat-allocation](https://github.com/kranthivarm/leetcodeDaily/tree/master/1487-cinema-seat-allocation) |
 | [1813-maximum-erasure-value](https://github.com/kranthivarm/leetcodeDaily/tree/master/1813-maximum-erasure-value) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -251,6 +254,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/kranthivarm/leetcodeDaily/tree/master/0318-maximum-product-of-word-lengths) |
+| [1487-cinema-seat-allocation](https://github.com/kranthivarm/leetcodeDaily/tree/master/1487-cinema-seat-allocation) |
 | [1940-maximum-xor-for-each-query](https://github.com/kranthivarm/leetcodeDaily/tree/master/1940-maximum-xor-for-each-query) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum

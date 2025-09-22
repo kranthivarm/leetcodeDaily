@@ -36,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthivarm/leetcodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
+| [2378-sender-with-largest-word-count](https://github.com/kranthivarm/leetcodeDaily/tree/master/2378-sender-with-largest-word-count) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kranthivarm/leetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -156,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2145-grid-game](https://github.com/kranthivarm/leetcodeDaily/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/kranthivarm/leetcodeDaily/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/kranthivarm/leetcodeDaily/tree/master/2262-solving-questions-with-brainpower) |
+| [2378-sender-with-largest-word-count](https://github.com/kranthivarm/leetcodeDaily/tree/master/2378-sender-with-largest-word-count) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthivarm/leetcodeDaily/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
@@ -191,6 +193,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1487-cinema-seat-allocation](https://github.com/kranthivarm/leetcodeDaily/tree/master/1487-cinema-seat-allocation) |
 | [1813-maximum-erasure-value](https://github.com/kranthivarm/leetcodeDaily/tree/master/1813-maximum-erasure-value) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
+| [2378-sender-with-largest-word-count](https://github.com/kranthivarm/leetcodeDaily/tree/master/2378-sender-with-largest-word-count) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthivarm/leetcodeDaily/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kranthivarm/leetcodeDaily/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthivarm/leetcodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
@@ -280,6 +283,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/kranthivarm/leetcodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kranthivarm/leetcodeDaily/tree/master/2300-construct-string-with-repeat-limit) |
+| [2378-sender-with-largest-word-count](https://github.com/kranthivarm/leetcodeDaily/tree/master/2378-sender-with-largest-word-count) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthivarm/leetcodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search

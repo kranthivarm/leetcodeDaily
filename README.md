@@ -119,6 +119,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/kranthivarm/leetcodeDaily/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kranthivarm/leetcodeDaily/tree/master/0073-set-matrix-zeroes) |
+| [0120-triangle](https://github.com/kranthivarm/leetcodeDaily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kranthivarm/leetcodeDaily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kranthivarm/leetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kranthivarm/leetcodeDaily/tree/master/0135-candy) |
@@ -224,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0053-maximum-subarray](https://github.com/kranthivarm/leetcodeDaily/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/kranthivarm/leetcodeDaily/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/kranthivarm/leetcodeDaily/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/kranthivarm/leetcodeDaily/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kranthivarm/leetcodeDaily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/0213-house-robber-ii) |

@@ -357,6 +357,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2649-count-total-number-of-colored-cells](https://github.com/kranthivarm/leetcodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/kranthivarm/leetcodeDaily/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3321-type-of-triangle](https://github.com/kranthivarm/leetcodeDaily/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/3336-water-bottles-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthivarm/leetcodeDaily/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |
@@ -411,4 +412,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kranthivarm/leetcodeDaily/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/kranthivarm/leetcodeDaily/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
